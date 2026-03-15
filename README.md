@@ -29,7 +29,7 @@ I enjoy building real-world applications using Java technologies and continuousl
 * 🌱 Currently learning **Advanced Java & Spring Framework**
 * 💻 Strong understanding of **Core Java & Object Oriented Programming (OOPs)**
 * 🧠 Practicing **Data Structures & Algorithms in Java**
-* 🔐 Built authentication systems with validation features
+* 🔐 Built authentication systems with validation features.
 * 🎯 Goal: Become a professional Software Engineer (Java Backend Developer)
 
 ---

@@ -17,7 +17,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse-ide\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-### ☕ Java Full Stack Developer | Backend Enthusiast | Problem Solver
+### ☕ Java Full Stack Developer | Java Backend Enthusiast | Problem Solver
 
 I am a Computer Science student passionate about backend development and software engineering.
 I enjoy building real-world applications using Java technologies and continuously improving my problem-solving skills through Data Structures and Algorithms.
